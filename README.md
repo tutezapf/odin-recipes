@@ -1,2 +1,2 @@
 # odin-recipes
-Project to put into practice the HTML knowledge I have acquired so far.
+Project to put into practice the HTML and CSS knowledge I have acquired so far.
