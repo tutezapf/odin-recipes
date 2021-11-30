@@ -8,3 +8,11 @@ img {
 img:hover {
   transform: scaleX(-1);
 }
+
+body {
+  text-align: justify;
+}
+
+h1, h2, a {
+  font-family: "Sofia", sans-serif;
+}
